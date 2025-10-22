@@ -1,0 +1,7 @@
+train: C:\Users\varun\Desktop\DATA SCIENCE\Data Science_new\Projects\Rust_corrosion\Train\images
+val: C:\Users\varun\Desktop\DATA SCIENCE\Data Science_new\Projects\Rust_corrosion\val\images
+
+nc: 2
+names:
+  - Rust
+  - corrosion
